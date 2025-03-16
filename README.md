@@ -1,2 +1,2 @@
 # SQL-Data-Warehouse-Project
-Building a modern data warehouse with SQL Server including ETL processes, data modeling and analytics using Medallion Architecture
+A comprehensive guide to building a modern data warehouse using SQL Server, featuring ETL processes, data modeling, analytics, and implementation of the Medallion Architecture."
