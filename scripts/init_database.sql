@@ -12,7 +12,7 @@ WARNING:
     All data in the database will be permanently deleted. Proceed with caution 
     and ensure you have proper backups before running this script.
 */
-
+-- "GO" - seperate batches when working with multiple SQL statements
 USE master;
 GO
 
