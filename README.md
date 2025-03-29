@@ -38,6 +38,7 @@ The project is divided into the following phases, each with specific tasks and d
 - **Deliverables**:
   - Data architecture design document.
   - Visual representation of the data flow and layers.
+![Data Flow Diagram](https://github.com/j0nzi/SQL-Data-Warehouse-Project/blob/main/docs/Data%20Flow%20Diagram.jpg?raw=true)
 
 ### 3. Project Initialization 🛠️
 - **Tasks**:
